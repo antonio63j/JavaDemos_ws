@@ -1,0 +1,26 @@
+<tablas>
+   <tabla name ="OB_TB1">
+       <logfile>OB_tb1.log</logfile>
+       <outfile>ob_tb1.txt</outfile>
+
+          <campo name ="OB_TB1_CAMPO1">
+             <tmn>1000</tmn>
+             <carrelleno>" "</carrelleno>
+             <posicionrelleno>derecha</posicionrelleno>     
+          </campo>   
+          
+          <campo name ="OB_TB1_CAMPO2">
+          </campo>   
+   </tabla>
+   
+   <tabla name ="OB_TB2">
+          <campo name ="OB_TB2_CAMPO1">
+          </campo>   
+          
+          <campo name ="OB_TB2_CAMPO2">
+             <tmn>1000</tmn>
+             <carrelleno>" "</carrelleno>
+             <posicionrelleno>derecha</posicionrelleno>   
+          </campo>   
+   </tabla>   
+</tablas>
