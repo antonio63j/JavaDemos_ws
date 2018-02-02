@@ -1,5 +1,0 @@
-2018-02-02 12:59:59 DEBUG HelloExample:19 - This is debug : mkyong
-2018-02-02 12:59:59 INFO  HelloExample:23 - This is info : mkyong
-2018-02-02 12:59:59 WARN  HelloExample:26 - This is warn : mkyong
-2018-02-02 12:59:59 ERROR HelloExample:27 - This is error : mkyong
-2018-02-02 12:59:59 FATAL HelloExample:28 - This is fatal : mkyong
