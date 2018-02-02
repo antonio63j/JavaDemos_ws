@@ -1,0 +1,8 @@
+**/target
+**/bin
+/build
+.tern-project
+**/.gradle
+/.recommenders
+/.metadata
+/RemoteSystemsTempFiles
